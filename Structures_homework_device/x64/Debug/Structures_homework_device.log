@@ -1,0 +1,3 @@
+﻿  Structures_homework_device.cpp
+D:\Проекты\Structures_homework_device\Structures_homework_device.cpp(138,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Structures_homework_device.vcxproj -> D:\Проекты\Structures_homework_device\x64\Debug\Structures_homework_device.exe
